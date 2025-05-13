@@ -1,0 +1,8 @@
+streamlit
+googlemaps
+folium
+streamlit-folium
+streamlit-js-eval
+firebase-admin
+twilio
+datetime

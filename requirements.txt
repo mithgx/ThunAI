@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 googlemaps
 folium
@@ -6,3 +7,13 @@ streamlit-js-eval
 firebase-admin
 twilio
 datetime
+=======
+streamlit
+googlemaps
+folium
+streamlit-folium
+streamlit-js-eval
+firebase-admin
+twilio
+datetime
+>>>>>>> 0e33267bf7d9f5eb5b0035033676976f873dd0fc

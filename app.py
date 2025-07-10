@@ -25,7 +25,8 @@ TWILIO_PHONE_NUMBER = '+18106571943'
 POLICE_CONTACT_NUMBER = '+919150980404'
 
 # Set your Google Maps API key
-YOUR_GOOGLE_MAPS_API_KEY = 'AIzaSyBNhs7f0N7qUZgp6S5By6aPrRQuphq3I_Y'
+# YOUR_GOOGLE_MAPS_API_KEY = 'AIzaSyBNhs7f0N7qUZgp6S5By6aPrRQuphq3I_Y'
+YOUR_GOOGLE_MAPS_API_KEY='AIzaSyBY_0TmkYDxWlVcvSsgEujXJJQbjXJS6iI'
 gmaps = googlemaps.Client(key=YOUR_GOOGLE_MAPS_API_KEY)
 
 # Local storage for incidents and forum messages

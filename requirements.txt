@@ -7,6 +7,7 @@ streamlit-js-eval
 firebase-admin
 twilio
 datetime
+python-dotenv
 =======
 streamlit
 googlemaps
@@ -16,4 +17,5 @@ streamlit-js-eval
 firebase-admin
 twilio
 datetime
+python-dotenv
 >>>>>>> 0e33267bf7d9f5eb5b0035033676976f873dd0fc

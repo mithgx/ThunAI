@@ -6,7 +6,7 @@ ThunAI is an innovative AI-powered safety application designed to proactively de
 
 ## Key Features
 
-### 🚨 AI-Powered Threat Detection
+### 🚨 AI-Powered Threat Detection.
 
 - Uses computer vision to analyze facial expressions and surrounding environment
 - Detects distress signals automatically without manual intervention

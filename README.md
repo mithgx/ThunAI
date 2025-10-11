@@ -6,29 +6,29 @@ ThunAI is an innovative AI-powered safety application designed to proactively de
 
 ## Key Features
 
-### 🚨 AI-Powered Threat Detection.
+### AI-Powered Threat Detection.
 
 - Uses computer vision to analyze facial expressions and surrounding environment
 - Detects distress signals automatically without manual intervention
 
-### 📍 Real-Time GPS Tracking
+### Real-Time GPS Tracking
 
 - Continuously monitors user's location
 - Shares live updates with trusted contacts and law enforcement
 - Provides accurate location data during emergencies
 
-### 📱 Multi-Device Integration
+### Multi-Device Integration
 
 - Works seamlessly with smartphones and wearable devices
 - Ensures accessibility in various situations
 
-### ⚡ Instant Emergency Response
+### Instant Emergency Response
 
 - One-touch emergency button for immediate alerts
 - Automated notifications to emergency contacts and authorities
 - AI chatbot provides real-time safety guidance
 
-### 🗺️ Safety Heatmaps
+### Safety Heatmaps
 
 - Visual representation of risk levels in different areas
 - Uses historical incident data to identify high-risk zones

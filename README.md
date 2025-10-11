@@ -1,21 +1,22 @@
-# ThunAI - Empowering Women Through AI-Powered Safety Solutions
+# ThunAI – AI-Powered Safety Solutions for Women
 
 ## Project Overview
 
-ThunAI is an innovative AI-powered safety application designed to proactively detect and respond to threats faced by women in their daily lives. Our solution leverages cutting-edge technologies like computer vision and real-time GPS tracking to create a comprehensive safety network.
+ThunAI is an AI-driven safety application designed to proactively identify and respond to potential threats faced by women in daily life. The solution combines **computer vision** and **real-time GPS tracking** to provide a comprehensive, reliable safety network.
+
+---
 
 ## Key Features
 
-### AI-Powered Threat Detection.
-
-- Uses computer vision to analyze facial expressions and surrounding environment
-- Detects distress signals automatically without manual intervention
+### AI-Powered Threat Detection
+- Analyzes facial expressions and surrounding environments using computer vision  
+- Automatically identifies distress signals without user intervention  
 
 ### Real-Time GPS Tracking
+- Continuously monitors the user's location  
+- Shares live updates with trusted contacts and law enforcement during emergencies  
+- Provides precise, actionable location data to enable rapid response  
 
-- Continuously monitors user's location
-- Shares live updates with trusted contacts and law enforcement
-- Provides accurate location data during emergencies
 
 ### Multi-Device Integration
 
@@ -96,8 +97,4 @@ POLICE_CONTACT_NUMBER=your_police_contact_number
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 ```
 
-You can use [python-dotenv](https://pypi.org/project/python-dotenv/) to load these automatically. All sensitive keys and tokens should be stored in this file and never committed to the repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
